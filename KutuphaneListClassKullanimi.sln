@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneListClassKullanimi", "KutuphaneListClassKullanimi\KutuphaneListClassKullanimi.csproj", "{3B3805A4-9A0A-4076-872B-FC681FA530BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinif", "Sinif\Sinif.csproj", "{652FB213-0C6C-40AE-A221-AC113E0A5A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3805A4-9A0A-4076-872B-FC681FA530BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3805A4-9A0A-4076-872B-FC681FA530BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3805A4-9A0A-4076-872B-FC681FA530BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3805A4-9A0A-4076-872B-FC681FA530BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652FB213-0C6C-40AE-A221-AC113E0A5A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652FB213-0C6C-40AE-A221-AC113E0A5A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652FB213-0C6C-40AE-A221-AC113E0A5A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652FB213-0C6C-40AE-A221-AC113E0A5A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683FAE48-AE38-4230-83FF-6EE8620891A4}
+	EndGlobalSection
+EndGlobal
